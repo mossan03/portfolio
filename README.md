@@ -3,7 +3,7 @@
 ## 概要
 
 自己紹介ページのソースコードです。
-URL：https://mossan03.com/portfolio/
+[Sonomi Yamauchi](https://mossan03.com/portfolio/)
 
 ## 制作期間
 
